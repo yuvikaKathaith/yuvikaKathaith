@@ -10,7 +10,7 @@ Alongside building projects, I enjoy problem-solving and regularly practice data
 
 <!--views profile -->
 <a href="https://github.com/yuvikaKathaith">
-  <img alt="GitHub Profile Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=yuvikaKathaith&label=Profile%20Views&color=C79600&style=for-the-badge" />
+  <img alt="GitHub Profile Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=yuvikaKathaith&label=PROFILE%20VIEWS&color=C79600&style=for-the-badge&labelColor=9A6F00" />
 </a>
 
 <!-- social links -->
