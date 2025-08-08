@@ -9,9 +9,7 @@ Alongside building projects, I enjoy problem-solving and regularly practice data
 ☕︎ When I’m not coding, you’ll probably find me with a good book, a cup of tea, and music playing in the background.
 
 <!--views profile -->
-<a href="https://github.com/yuvikaKathaith">
-  <img alt="Profile views" title="GitHub Profile Views" src="https://custom-icon-badges.demolab.com/github/profile-views/yuvikaKathaith?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" />
-</a>
+![Profile views](https://komarev.com/ghpvc/?username=yuvikaKathaith&color=E1AD0E&style=for-the-badge)
 
 <!-- social links -->
 ---
