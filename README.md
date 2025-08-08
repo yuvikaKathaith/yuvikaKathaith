@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🧗‍♀️ Yuvika Kathaith
 
 **`Full Stack Developer`**
@@ -45,18 +43,11 @@ Alongside building projects, I enjoy problem-solving and regularly practice data
 <img alt="Tailwind CSS" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
 <img alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img alt="React Router" width="30px" src="https://reactrouter.com/favicon-light.png" />
-<img alt="Zustand" width="30px" src="https://raw.githubusercontent.com/pmndrs/zustand/main/resources/logo.svg" />
 <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img alt="Vite" width="30px" src="https://vitejs.dev/logo.svg" />
-<img alt="OpenCV" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
-<img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-</div>
-
 <br/>
 
 <div align="center">
@@ -74,4 +65,3 @@ Alongside building projects, I enjoy problem-solving and regularly practice data
 ### </> Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikaKathaith&layout=compact&theme=radical)
 
-</div>
