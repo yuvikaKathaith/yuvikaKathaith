@@ -1,7 +1,7 @@
 # 🧗‍♀️ Yuvika Kathaith
 
 **`Full Stack Developer`**
----
+<br/>
 I’m a Full Stack Developer who genuinely enjoys creating clean, functional, and meaningful web experiences.  
 I work primarily with the MERN stack, building full-stack applications that bring ideas to life.  
 I enjoy both frontend and backend development, and I love exploring tools and technologies that make products more impactful and user-friendly.  
