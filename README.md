@@ -4,7 +4,7 @@
 
 
 <div>
-  I’m a Full Stack Developer from Delhi, India who genuinely enjoys creating clean, functional, and meaningful web experiences. I work primarily with the MERN stack, building full-stack applications that bring ideas to life. I     enjoy both frontend and backend development, and I love exploring tools and technologies that make products more impactful and user-friendly. Alongside building projects, I enjoy problem-solving and regularly practice data structures and algorithms to sharpen my logic and thinking.  
+  I’m a Full Stack Developer who genuinely enjoys creating clean, functional, and meaningful web experiences. I work primarily with the MERN stack, building full-stack applications that bring ideas to life. I     enjoy both frontend and backend development, and I love exploring tools and technologies that make products more impactful and user-friendly. Alongside building projects, I enjoy problem-solving and regularly practice data structures and algorithms to sharpen my logic and thinking.  
 <br/><br/>
 ☕︎ When I’m not coding, you’ll probably find me with a good book, a cup of tea, and music playing in the background.
 </div>
