@@ -72,11 +72,11 @@
 
 <!-- Stats -->
 #
-<h3 align="left">📶 Stats</h3>
-
-![Yuvika Kathaith's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvikaKathaith&show_icons=true&theme=gruvbox)
-<!-- Github streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=yuvikaKathaith&theme=gruvbox&border_radius=4.5)
-<!-- Most used languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikaKathaith&layout=compact&theme=radical)
-
+<h3 align="left">📶 GitHub Stats</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvikaKathaith&show_icons=true&theme=gruvbox"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=yuvikaKathaith&theme=gruvbox&border_radius=4.5"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikaKathaith&layout=compact&theme=radical" />
+</div>
