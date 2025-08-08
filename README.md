@@ -2,15 +2,18 @@
 
 **`Full Stack Developer`**
 
+<!-- intro -->
 I’m a Full Stack Developer who genuinely enjoys creating clean, functional, and meaningful web experiences.
 I work primarily with the MERN stack, building full-stack applications that bring ideas to life. I enjoy both frontend and backend development, and I love exploring tools and technologies that make products more impactful and user-friendly.
 Alongside building projects, I enjoy problem-solving and regularly practice data structures and algorithms to sharpen my logic and thinking.
 ☕︎ When I’m not coding, you’ll probably find me with a good book, a cup of tea, and music playing in the background.
 
-<p align="left">
-   <img src="https://komarev.com/ghpvc/?username=yuvikakathaith&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="yuvikakathaith" />
-</p>
+<!--views profile -->
+<a href="https://github.com/yuvikaKathaith">
+  <img alt="Profile views" title="GitHub Profile Views" src="https://custom-icon-badges.demolab.com/github/profile-views/yuvikaKathaith?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" />
+</a>
 
+<!-- social links -->
 ---
 ### 🌐 Connect with Me
 
@@ -20,7 +23,7 @@ Alongside building projects, I enjoy problem-solving and regularly practice data
 [![Pinterest](https://img.shields.io/badge/Pinterest-e60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/YOURPROFILE)
 
 ---
-
+<!-- Skills -->
 ### 🧰 Languages and Tools I Use
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> 
@@ -47,15 +50,15 @@ Alongside building projects, I enjoy problem-solving and regularly practice data
 <br />
 
 #
-
+<!-- Stats -->
 ![Yuvika Kathaith's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvikaKathaith&show_icons=true&theme=gruvbox)
 
 #
-
+<!-- Github streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=yuvikaKathaith&theme=gruvbox&border_radius=4.5)
 
 # 
-
+<!-- Most used languages -->
 ### </> Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikaKathaith&layout=compact&theme=radical)
 
