@@ -79,5 +79,5 @@
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=yuvikaKathaith&theme=gruvbox&border_radius=4.5"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikaKathaith&layout=compact&bg_color=0d1117&title_color=E1AD0E&text_color=ffffff&icon_color=E1AD0E" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikaKathaith&layout=compact&bg_color=0d1117&title_color=E1AD0E&text_color=ffffff&icon_color=E1AD0E" width="350"/>
 </div>
