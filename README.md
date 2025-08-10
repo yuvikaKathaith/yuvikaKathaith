@@ -25,6 +25,7 @@
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox)](https://yuvikakathaith.vercel.app/)
 &nbsp;
+[![CodePen](https://img.shields.io/badge/CodePen-ffffff?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/Yuvika-Kathaith)
 
 #
 
@@ -57,7 +58,7 @@
 &nbsp;
 <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 &nbsp;
-<img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 &nbsp;
 <img alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 &nbsp;
