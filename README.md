@@ -75,9 +75,11 @@
 #
 <h3 align="left">📶 GitHub Stats</h3>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvikaKathaith&show_icons=true&theme=gruvbox"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvikaKathaith&show_icons=true&theme=tokyonight"/>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=yuvikaKathaith&theme=gruvbox&border_radius=4.5"/>
+  <img src="https://streak-stats.demolab.com?user=yuvikaKathaith&theme=tokyonight&border_radius=4.5"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikaKathaith&layout=compact&bg_color=0d1117&title_color=E1AD0E&text_color=ffffff&icon_color=E1AD0E" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikaKathaith&theme=tokyonight" width="350"/>
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuvikaKathaith&theme=tokyonight"/>
 </div>
