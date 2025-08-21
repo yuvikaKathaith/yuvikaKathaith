@@ -77,7 +77,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yuvikaKathaith&show_icons=true&theme=tokyonight"/>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=yuvikaKathaith&theme=tokyonight&border_radius=4.5"/>
+  <img src="https://streak-stats.demolab.com?user=yuvikaKathaith&theme=tokyonight&border_radius=5"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikaKathaith&theme=tokyonight" width="350"/>
   <br/><br/>
